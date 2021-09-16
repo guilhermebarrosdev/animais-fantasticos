@@ -17,3 +17,4 @@ export default function initAccordion() {
     });
   }
 }
+console.log('Teste');
